@@ -1,0 +1,12 @@
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\bin\Release\Quản lý thông tin.exe.config
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\bin\Release\Quản lý thông tin.exe
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\bin\Release\Quản lý thông tin.pdb
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\bin\Release\Quản lý thông tin.xml
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\obj\Release\Quản_lý_thông_tin.Login.resources
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\obj\Release\Quản_lý_thông_tin.Frmmain.resources
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\obj\Release\Quản_lý_thông_tin.Resources.resources
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\obj\Release\Quản_lý_thông_tin.frmNhanVien.resources
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\obj\Release\Quản lý thông tin.vbproj.GenerateResource.Cache
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\obj\Release\Quản lý thông tin.exe
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\obj\Release\Quản lý thông tin.xml
+E:\Điện toán đám mây\Quản lý sản phẩm v2.1\Quản lý thông tin\Quản lý thông tin\obj\Release\Quản lý thông tin.pdb
