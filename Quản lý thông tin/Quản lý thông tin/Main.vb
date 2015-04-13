@@ -1,6 +1,7 @@
 ﻿Imports System.Data.SqlClient 'Gọi thư viện
 Imports System.Data.DataTable 'Gọi thư viện
 Imports System.Data.DataSet
+'Võ Anh Kiệt
 Public Class Frmmain
     'Tạo các biến sử dụng cho toàn form
     Dim Sanpham As New DataTable ' Biến của bảng sản phẩm
